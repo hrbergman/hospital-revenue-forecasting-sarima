@@ -9,6 +9,5 @@ Using two years of daily hospital revenue, I built a forecasting model to answer
 - Moved from a standard ARIMA model, which produced a flat forecast, to a seasonal SARIMA model with a 7-day period
 - Evaluated the forecast against a 120-day holdout with an MAE of $2.05M and RMSE of $2.46M, with most actual values inside the 95% confidence interval
 
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
-| 
-[Video Presentation](https://youtu.be/jKOE0cG68rc)
+[Documentation](https://github.com/hrbergman/hospital-revenue-forecasting-sarima/blob/main/hospital-revenue-forecasting-sarima/forecasting-sarima.pdf)
+
